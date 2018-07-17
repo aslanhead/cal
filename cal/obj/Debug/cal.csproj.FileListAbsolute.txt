@@ -1,0 +1,7 @@
+C:\Users\vramanuj\source\repos\cal\cal\bin\Debug\cal.exe.config
+C:\Users\vramanuj\source\repos\cal\cal\bin\Debug\cal.exe
+C:\Users\vramanuj\source\repos\cal\cal\bin\Debug\cal.pdb
+C:\Users\vramanuj\source\repos\cal\cal\obj\Debug\cal.csprojAssemblyReference.cache
+C:\Users\vramanuj\source\repos\cal\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+C:\Users\vramanuj\source\repos\cal\cal\obj\Debug\cal.exe
+C:\Users\vramanuj\source\repos\cal\cal\obj\Debug\cal.pdb
